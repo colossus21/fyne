@@ -28,3 +28,7 @@ fyne template Payment schema.json
 ```
 
 3) Voila!
+
+### Please note that
+* ID, CreateDate, UpdateDate are added to the models by default
+* Use ``` go mod init {{module name}} ``` and add an entry point to run the API server
