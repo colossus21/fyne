@@ -1,6 +1,6 @@
-## Renamed to : Fyne
+## Fyne: Generate Go application boilerplate from JSON
 
-Fyne lets you generate a sample Golang application from a given JSON schema
+Fyne lets you generate a sample Golang application from a given JSON schema including models, handlers, db and routes.
 
 ### Installation:
 
