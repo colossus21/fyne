@@ -1,0 +1,22 @@
+{
+  "name": "ohho",
+  "version": "1.0.0",
+  "description": "json to go model",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M. Rafiul Alam",
+  "license": "MIT",
+  "bin": {
+    "ohho": "index.js"
+  },
+  "dependencies": {
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/colossus21/ohho"
+  }
+}

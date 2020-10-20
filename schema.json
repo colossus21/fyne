@@ -1,0 +1,5 @@
+{
+    "workshop_id" : "int64",
+    "created" : "time.Time",
+    "status" : "string"
+}
