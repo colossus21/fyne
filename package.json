@@ -1,6 +1,6 @@
 {
-  "name": "ohho",
-  "version": "1.0.0",
+  "name": "fyne",
+  "version": "1.0.1",
   "description": "json to go model",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "author": "M. Rafiul Alam",
   "license": "MIT",
   "bin": {
-    "ohho": "index.js"
+    "fyne": "index.js"
   },
   "dependencies": {
     "yargs": "^16.1.0"
